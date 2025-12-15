@@ -22,6 +22,18 @@
   - Backstory (the ghost, formative history)
   - Relationships (all dynamic types)
   - Protagonist & Antagonist (hero/villain creation)
+- [x] **Complete Plot Development Section** — All 5 guides + index
+  - Plot Basics (foundation and structure)
+  - Conflict Types (7 types of opposition)
+  - Tension & Stakes (reader engagement)
+  - Subplots (secondary storylines)
+  - Plot Twists (surprising readers)
+- [x] **Complete World-Building Section** — All 5 guides + index
+  - World-Building Basics (5 pillars, process)
+  - Geography & Environment (physical world)
+  - Cultures & Societies (people and civilization)
+  - Magic Systems (fantasy rules and limitations)
+  - History & Mythology (temporal depth)
 
 ### **✨ Main README.md**
 - [x] Professional, visually stunning main page
@@ -139,12 +151,25 @@ Essential documentation that writers will reference most:
 - [x] docs/fundamentals/character-development/README.md (index)
 
 #### **Plot Development:**
-- [ ] docs/fundamentals/plot-development/plot-basics.md
-- [ ] docs/fundamentals/plot-development/conflict-types.md
-- [ ] docs/fundamentals/plot-development/tension-stakes.md
-- [ ] docs/fundamentals/plot-development/subplots.md
-- [ ] docs/fundamentals/plot-development/plot-twists.md
-- [ ] docs/fundamentals/plot-development/README.md (index)
+- [x] docs/fundamentals/plot-development/plot-basics.md
+- [x] docs/fundamentals/plot-development/conflict-types.md
+- [x] docs/fundamentals/plot-development/tension-stakes.md
+- [x] docs/fundamentals/plot-development/subplots.md
+- [x] docs/fundamentals/plot-development/plot-twists.md
+- [x] docs/fundamentals/plot-development/README.md (index)
+
+#### **World-Building:**
+- [x] docs/fundamentals/world-building/world-building-basics.md
+- [x] docs/fundamentals/world-building/geography-environment.md
+- [x] docs/fundamentals/world-building/cultures-societies.md
+- [x] docs/fundamentals/world-building/magic-systems.md
+- [x] docs/fundamentals/world-building/history-mythology.md
+- [x] docs/fundamentals/world-building/README.md (index)
+
+#### **Dialogue Techniques:**
+- [ ] docs/fundamentals/dialogue-techniques/fundamentals.md
+- [ ] docs/fundamentals/dialogue-techniques/subtext.md
+- [ ] docs/fundamentals/dialogue-techniques/dialogue-tags.md
 
 ---
 
@@ -290,12 +315,12 @@ Most-used templates for planning:
 | Category | Created | Total Needed | Progress |
 |----------|---------|--------------|----------|
 | **Main Structures** | 10 | 10 | ✅ 100% |
-| **Documentation Files** | 23 | ~100 | 🟡 23% |
+| **Documentation Files** | 35 | ~100 | 🟡 35% |
 | **Templates** | 4 | ~25 | 🟡 16% |
 | **Examples** | 0 | ~15 | 🔴 0% |
 | **Resources** | 1 | ~20 | 🔴 5% |
 
-**Overall Completion:** ~25% (Core fundamentals progressing)
+**Overall Completion:** ~35% (Core fundamentals 4/5 complete!)
 
 ---
 
