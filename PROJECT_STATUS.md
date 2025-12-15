@@ -38,6 +38,17 @@
   - Dialogue Fundamentals (natural dialogue, character voice)
   - Subtext (layered meaning, what's unsaid)
   - Dialogue Tags (attribution, "said" vs alternatives)
+- [x] **Complete Character Templates** — All 4 essential character sheets
+  - Basic Character Profile (streamlined 3D character creation)
+  - Character Arc Worksheet (transformation planning)
+  - Antagonist Sheet (compelling villain design)
+  - Relationship Map (character web visualization)
+- [x] **Complete Plot Templates** — All 5 core story structure templates
+  - Basic Story Outline (universal flexible template)
+  - Three-Act Structure Template (classic Hollywood structure)
+  - Hero's Journey Template (12-stage monomyth)
+  - Romance Beat Sheet (genre-specific love story beats)
+  - Mystery Plot Template (fair-play mystery with clues)
 
 ### **✨ Main README.md**
 - [x] Professional, visually stunning main page
@@ -182,17 +193,17 @@ Essential documentation that writers will reference most:
 Most-used templates for planning:
 
 #### **Character Templates:**
-- [ ] templates/character-sheets/basic-character-profile.md
-- [ ] templates/character-sheets/character-arc-worksheet.md
-- [ ] templates/character-sheets/antagonist-sheet.md
-- [ ] templates/character-sheets/relationship-map.md
+- [x] templates/character-sheets/basic-character-profile.md
+- [x] templates/character-sheets/character-arc-worksheet.md
+- [x] templates/character-sheets/antagonist-sheet.md
+- [x] templates/character-sheets/relationship-map.md
 
 #### **Plot Templates:**
-- [ ] templates/plot-outlines/basic-story-outline.md
-- [ ] templates/plot-outlines/three-act-structure-template.md
-- [ ] templates/plot-outlines/heros-journey-template.md
-- [ ] templates/plot-outlines/romance-beat-sheet.md
-- [ ] templates/plot-outlines/mystery-plot-template.md
+- [x] templates/plot-outlines/basic-story-outline.md
+- [x] templates/plot-outlines/three-act-structure-template.md
+- [x] templates/plot-outlines/heros-journey-template.md
+- [x] templates/plot-outlines/romance-beat-sheet.md
+- [x] templates/plot-outlines/mystery-plot-template.md
 
 #### **World-Building:**
 - [ ] templates/world-building/comprehensive-world-guide.md
@@ -321,11 +332,11 @@ Most-used templates for planning:
 |----------|---------|--------------|----------|
 | **Main Structures** | 10 | 10 | ✅ 100% |
 | **Documentation Files** | 39 | ~100 | 🟡 39% |
-| **Templates** | 4 | ~25 | 🟡 16% |
+| **Templates** | 13 | ~25 | 🟢 52% |
 | **Examples** | 0 | ~15 | 🔴 0% |
 | **Resources** | 1 | ~20 | 🔴 5% |
 
-**Overall Completion:** ~40% (Core fundamentals complete! 🎉)
+**Overall Completion:** ~45% (Core fundamentals + essential character & plot templates complete! 🎉)
 
 ---
 
