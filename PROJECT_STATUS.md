@@ -34,6 +34,10 @@
   - Cultures & Societies (people and civilization)
   - Magic Systems (fantasy rules and limitations)
   - History & Mythology (temporal depth)
+- [x] **Complete Dialogue Techniques Section** — All 3 guides + index
+  - Dialogue Fundamentals (natural dialogue, character voice)
+  - Subtext (layered meaning, what's unsaid)
+  - Dialogue Tags (attribution, "said" vs alternatives)
 
 ### **✨ Main README.md**
 - [x] Professional, visually stunning main page
@@ -167,9 +171,10 @@ Essential documentation that writers will reference most:
 - [x] docs/fundamentals/world-building/README.md (index)
 
 #### **Dialogue Techniques:**
-- [ ] docs/fundamentals/dialogue-techniques/fundamentals.md
-- [ ] docs/fundamentals/dialogue-techniques/subtext.md
-- [ ] docs/fundamentals/dialogue-techniques/dialogue-tags.md
+- [x] docs/fundamentals/dialogue-techniques/fundamentals.md
+- [x] docs/fundamentals/dialogue-techniques/subtext.md
+- [x] docs/fundamentals/dialogue-techniques/dialogue-tags.md
+- [x] docs/fundamentals/dialogue-techniques/README.md (index)
 
 ---
 
@@ -315,12 +320,12 @@ Most-used templates for planning:
 | Category | Created | Total Needed | Progress |
 |----------|---------|--------------|----------|
 | **Main Structures** | 10 | 10 | ✅ 100% |
-| **Documentation Files** | 35 | ~100 | 🟡 35% |
+| **Documentation Files** | 39 | ~100 | 🟡 39% |
 | **Templates** | 4 | ~25 | 🟡 16% |
 | **Examples** | 0 | ~15 | 🔴 0% |
 | **Resources** | 1 | ~20 | 🔴 5% |
 
-**Overall Completion:** ~35% (Core fundamentals 4/5 complete!)
+**Overall Completion:** ~40% (Core fundamentals complete! 🎉)
 
 ---
 
