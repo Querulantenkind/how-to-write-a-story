@@ -255,7 +255,7 @@ Navigate the path to publication:
 - 📋 **[Templates](../../templates/)** — Process tools and worksheets
 - 📚 **[Writing Exercises](../../resources/exercises/)** — Skill-building activities
 - 🛠️ **[Software Guide](../../resources/tools-software/)** — Detailed tool reviews
-- 📖 **[Examples](../../examples/)** — See process in action
+- 📖 **[Examples](../../examples/)** — Templates and worked examples
 
 ---
 

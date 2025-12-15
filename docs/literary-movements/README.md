@@ -195,7 +195,7 @@ Each movement section includes:
 
 - 🎭 **[Genre Guides](../genres/)** — See how movements influence genres
 - ✍️ **[Writing Craft](../craft/)** — Techniques drawn from all movements
-- 📖 **[Examples](../../examples/)** — Analyzed texts from various movements
+- 📖 **[Examples](../../examples/)** — Templates and original example content
 - 📚 **[Reading Lists](../../resources/reading-lists/)** — Curated by movement
 
 ---

@@ -164,7 +164,7 @@ Write stories that explore the human condition:
 Each genre section includes:
 - ✅ **Checklists** — Genre-specific requirements
 - 📋 **Templates** — Tailored plotting tools
-- 📖 **Examples** — Analyzed genre classics
+- 📖 **Examples** — Original sample scenes (genre conventions)
 - 📚 **Reading Lists** — Essential genre reading
 - 💡 **Common Mistakes** — Genre-specific pitfalls to avoid
 
